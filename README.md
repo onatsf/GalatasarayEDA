@@ -1,2 +1,2 @@
 # GalatasarayEDA
-Exploratory Data Analysis for the last 15 years of galatasaray.
+Exploratory Data Analysis for the last 15 years of Galatasaray.
